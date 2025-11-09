@@ -1,5 +1,11 @@
 # 🛫Flight Performance Dashboard (Power BI)
 
+<p align="center">
+	<a href="https://github.com/user-attachments/assets/a9b5366a-e421-42cb-8065-f37185d0839c">
+		<img width="1178" height="656" alt="Image" src="https://github.com/user-attachments/assets/a9b5366a-e421-42cb-8065-f37185d0839c" alt="Sample visual" width="1200" />
+	</a>
+</p>
+
 ## 📖 Project Overview
 This Power BI project analyzes **Flight performance** using data on delays, routes, aircraft types, and seasonal trends.  
 The dashboard provides actionable insights into operational efficiency, delay patterns, and performance factors across different flight routes and times.
